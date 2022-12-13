@@ -1,0 +1,16 @@
+Nome: João da Silva
+Idade: 36
+Matricula: 123
+Cargo: Atendente
+Salario R$: 2350,00
+% de aumento: 0,2
+Novo salário R$: 2820,00
+------------------------------------------
+Nome: Maria de Tal
+Idade: 42
+Matricula: 321
+Cargo: Telefonista
+Salario R$: 3158,00
+% de aumento: 0,2
+Novo salário R$: 3789,60
+------------------------------------------
